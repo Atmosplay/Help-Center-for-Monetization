@@ -1,4 +1,4 @@
-# Help-Center-for-Monetization
+# Help-Center-for-Publisher
 Here are everything you want to know about how to use Atmosplay platform to monetize your app.
 
 在这里你可以了解到如何有效的通过Atmosplay广告平台进行流量变现，获得最大化收益。
