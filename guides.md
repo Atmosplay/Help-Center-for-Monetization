@@ -10,7 +10,7 @@
 ### 1 Apps and AdUnit Management
 We will introduce what developers need to do after logging in. The introduction including Apps, AdUnit, acquiring data and financial management.
 
-##### 1.1 You can check all application information under your account in "Application Management" tab on the Dashboard. You can create an App by selecting "ADD NEW APP" on this page.
+##### 1.1 You can check all application information under your account in "Apps" tab on the Dashboard. You can create an App by selecting "ADD NEW APP" on this page.
 
 ![“1.1”页面](imgs/001.jpg)
 
@@ -18,7 +18,7 @@ We will introduce what developers need to do after logging in. The introduction 
 
 ![App Store](imgs/002.jpg)
 
-##### 1.2 Fill in the App information form and then click the "ADD" button, then you will go back to the "Application Management" page.
+##### 1.2 Fill in the App information form and then click the "SAVE" button, then you will go back to the "Apps" page.
 
 ![“1.2”页面](imgs/003.jpg)
 
@@ -28,23 +28,23 @@ We will introduce what developers need to do after logging in. The introduction 
 
 *Download URL: If your App has been in several application markets, choose one of them.*
 
-##### 1.3 To create new AdUnit, you can click the "Add New AdUint" button, which is in both "Application Management" tab and "AdUnit Management" tab.
+##### 1.3 To create new AdUnit, you can click the "Add New AdUint" button, which is in both "Apps" tab and "AdUnits" tab.
 
 ![“1.3”页面](imgs/004.jpg)
 
 ![“1.4”页面](imgs/005.jpg)
 
-##### 1.4 Fill in the form and then click "ADD" button. 
+##### 1.4 Fill in the form and then click "SAVE" button. 
 
 ![“1.5”页面](imgs/006.jpg)
 
-##### 1.5 You can acquire the AdUnit ID in "AdUnit Management" tab on the dashboard.
+##### 1.5 You can acquire the AdUnit ID in "AdUnits" tab on the dashboard.
 
 ![“1.5”页面](imgs/007.jpg)
 
 ### 2 Integration Documents and Help Documents
 
-Click the "DOCS" tab on the dashboard, then you can see the SDK integration documents and choose integration method according to your requirments. 
+Click the "Docs" tab on the dashboard, then you can see the SDK integration documents and choose integration method according to your requirments. 
 
 ![“2”页面](imgs/008.jpg)
 
@@ -60,7 +60,7 @@ Click the "DOCS" tab on the dashboard, then you can see the SDK integration docu
 
 ### 4 Financial Management
 
-##### 4.1 Click the "Financial Management" on the dashboard. Select the "ADD" button on the "Payment Info".
+##### 4.1 Click the "Financial" on the dashboard. Select the "ADD" button on the "Payment Info".
 
 ![“4.1”页面](imgs/011.jpg)
 
@@ -70,7 +70,7 @@ You are availbale for payment after all following details completed. Please fill
 
 ![“4.2”页面](imgs/012.jpg)
 
-##### 4.3 Click the "Financial Management" on the dashboard to check your monthly revenue.
+##### 4.3 Click the "Financial" on the dashboard to check your monthly revenue.
 
 ![“4.3”页面](imgs/011.jpg)
 
